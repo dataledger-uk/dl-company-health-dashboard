@@ -26,14 +26,21 @@ Perfect for investors, sales teams, recruiters, or anyone who needs quick compan
    pip install -r requirements.txt
    ```
 
-3. **Run the app:**
+3. **Set up your API key:**
+   ```bash
+   # Copy the example environment file
+   cp .env.example .env
+   
+   # Edit .env and add your DataLedger API key
+   # Get your API key from: https://hub.dataledger.uk
+   ```
+
+4. **Run the app:**
    ```bash
    streamlit run app.py
    ```
 
-4. **Open your browser to:** `http://localhost:8501`
-
-5. **Get your API key:** Sign up at [DataLedger](https://hub.dataledger.uk) for 25 free credits
+5. **Open your browser to:** `http://localhost:8501`
 
 ## Example Companies to Try
 
