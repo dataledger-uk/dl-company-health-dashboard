@@ -4,8 +4,6 @@
 
 Enter any UK company number and instantly see their assets, liabilities, debt ratios, and key business information - all pulled from official Companies House data via the DataLedger API.
 
-![Dashboard Preview](screenshot.png) *(Add a screenshot of your dashboard here)*
-
 ## What it does
 
 - **Company Overview**: Name, location, employee count, and industry classification
@@ -76,4 +74,4 @@ MIT License - feel free to use this code in your own projects.
 
 ---
 
-**Check out the [DataLedger documentation](https://dataledger.uk/docs) **.
+Check out the [DataLedger documentation](https://api.dataledger.uk/docs/v1/)).
