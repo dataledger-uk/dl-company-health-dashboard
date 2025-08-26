@@ -17,7 +17,7 @@ Perfect for investors, sales teams, recruiters, or anyone who needs quick compan
 
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/yourusername/company-health-dashboard.git
+   git clone git@github.com:dataledger-uk/dl-company-health-dashboard.git
    cd company-health-dashboard
    ```
 
